@@ -18,7 +18,7 @@ type: page
 ## 联系我
 
 * GitHub：[jxysoft](https://github.com/jxysoft)
-* email：xianyao.jiang@gmail.com
+* Email：xianyao.jiang@gmail.com
 
 ## 友情链接
 

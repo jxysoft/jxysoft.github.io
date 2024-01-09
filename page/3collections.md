@@ -9,6 +9,18 @@ type: page
 * content
 {:toc}
 
+## 模型
+### LLM
+#### 小模型
+    1. qiwen-1.8B
+   
+#### 大模型
+    1. openai
+    2. qwen-72B
+
+## 数据集
+
+
 ## GitBook 及其插件
 
 * [Gitbook 的使用和常用插件 -赵达](http://zhaoda.net/2015/11/09/gitbook-plugins/)
